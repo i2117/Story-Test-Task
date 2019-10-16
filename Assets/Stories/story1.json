@@ -1,0 +1,67 @@
+{
+    "Nodes": [
+      {
+        "id": 0,
+        "character": "...",
+        "text": "Privet, igrok. Eto pervaya istoriya",
+        "options": [
+            {
+                "text": "Privet :)",
+                "next": 1
+            },
+            {
+                "text": "Ne privet :(",
+                "next": 2
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "character": "player",
+        "emotion": "happy",
+        "text": "Vsem privet! Ya igrok",
+        "next": 3
+      },
+      {
+        "id": 2,
+        "character": "player",
+        "emotion": "sad",
+        "text": "Ne hochu vas videt'",
+        "next": 3
+      },
+      {
+        "id": 3,
+        "character": "sam",
+        "emotion": "happy",
+        "text": "I tebe privet!",
+        "next": 4
+      },
+      {
+        "id": 4,
+        "character": "jerry",
+        "emotion": "happy",
+        "text": "Ya tozhe tebe ochen' rad",
+        "next": 7
+      },
+      {
+        "id": 5,
+        "character": "sam",
+        "emotion": "sad",
+        "text": "Ochen' zhal'",
+        "next": 6
+      },
+      {
+        "id": 6,
+        "character": "jerry",
+        "emotion": "angry",
+        "text": "Ya tozhe tebe ne rad",
+        "next": 7
+      },
+      {
+        "id": 7,
+        "character": "...",
+        "text": "Neplohaya istoriya",
+        "next": null
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 341307500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc916d17d26e2f7d0005b0799de40d76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e63af8adac4659c14caa9757922f52a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d82f8853911af304c913fb1c1ce97dcb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/jerry/face_sad.png
+- Assets/Characters/jerry/face_neutral.png
+- Assets/Characters/jerry/body.png
+- Assets/Characters/jerry/face_angry.png
+- Assets/Characters/jerry/face_shocked.png
+- Assets/Characters/jerry/face_happy.png
+- Assets/Characters/jerry/hair.png
+- Assets/Characters/jerry/_character.prefab
+Dependencies: []

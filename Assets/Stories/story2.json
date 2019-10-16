@@ -1,0 +1,91 @@
+{
+    "Nodes": [
+      {
+        "id": 0,
+        "character": "...",
+        "text": "Story 2",
+        "next": 1
+      },
+      {
+        "id": 1,
+        "character": "sam",
+        "emotion": "happy",
+        "text": "Hello!",
+        "options": [
+          {
+            "text": "Hi!",
+            "next": 2
+          },
+          {
+            "text": "Hello!",
+            "next": 2
+          },
+          {
+            "text": "Glad to see you",
+            "next": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "character": "jerry",
+        "emotion": "sad",
+        "text": "I am here too!",
+        "options": [
+          {
+            "text": "Hi, Jerry!",
+            "next": 3
+          },
+          {
+            "text": "Hello, Jerry!",
+            "next": 3
+          },
+          {
+            "text": "Glad to see you, Jerry",
+            "next": 3
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "character": "player",
+        "emotion": "suspicious",
+        "text": "Glad to see you, Jerry. And Sam, you too!",
+        "next": 4
+      },
+      {
+        "id": 4,
+        "character": "...",
+        "text": "What's next?",
+        "next": 5
+      },
+      {
+        "id": 5,
+        "character": "...",
+        "text": "Go home?",
+        "options": [
+          {
+            "text": "Yes!",
+            "next": 6
+          },
+          {
+            "text": "Go home",
+            "next": 6
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "character": "player",
+        "emotion": "angry",
+        "text": "I am going home!!! Don't want to see both of you!",
+        "next": 7
+      },
+      {
+        "id": 7,
+        "character": "...",
+        "text": "Cool story!!",
+        "next": null
+      }
+    ]
+  }

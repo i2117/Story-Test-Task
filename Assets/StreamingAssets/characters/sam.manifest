@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3258756189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c0cfe70bf483e8872ecb807a2b97b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e63af8adac4659c14caa9757922f52a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d82f8853911af304c913fb1c1ce97dcb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/sam/face_happy.png
+- Assets/Characters/sam/hair.png
+- Assets/Characters/sam/face_neutral.png
+- Assets/Characters/sam/_character.prefab
+- Assets/Characters/sam/face_sad.png
+- Assets/Characters/sam/face_shocked.png
+- Assets/Characters/sam/basic.png
+- Assets/Characters/sam/face_angry.png
+Dependencies:
+- E:/Unity Projects/SwagMashaTestTask/Assets/AssetBundles/characters/player
